@@ -23,7 +23,7 @@ Este estudo avalia a dinâmica temporal da vegetação de manguezais adjacentes 
 ![Mapa de Localização da Área de Estudo](Localização%20–%20PA458.png)
 
 **Figura 5: Mapas Anuais de NDVI (2019-2024)**
-![Mapas Anuais de NDVI](NDVI_MAPA.png)
+![Mapas Anuais de NDVI](ndvi_mapa.png?raw=1)
 
 ### Análise NDVI (2019-2024)
 
